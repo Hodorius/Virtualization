@@ -1,0 +1,7 @@
+Download VMware Workstation Pro 17 from Broadcom:
+  https://linuxhint.com/how-to-download-free-vmware-workstation-pro-17-and-vmware-fusion-13-pro-installer-from-broadcom/
+
+Installtion on Ubuntu 24.04:
+  https://linuxhint.com/how-to-download-free-vmware-workstation-pro-17-and-vmware-fusion-13-pro-installer-from-broadcom/
+Compile VMware Workstation Pro Kernel Modules on Ubuntu:
+  Compile the VMware Workstation Pro Kernel Modules
